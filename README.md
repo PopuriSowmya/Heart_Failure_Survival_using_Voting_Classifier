@@ -7,6 +7,8 @@ Here Voting classifier is created using five classifiers namely
 3. Extra Tree Classifier
 4. Logistic Regression
 5. Random Forest
+
+   
 They are choosen due to their high performance scores
 
 To run the code, follow the instructions from original repository
